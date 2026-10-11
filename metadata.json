@@ -1,0 +1,7 @@
+{
+  "name": "TripPilot - Live Bus Tracker & Booking",
+  "description": "Tactile intercity transit tracker with real-time deadline assurance, Promise Score ranking, and live highway monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
